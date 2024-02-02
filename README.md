@@ -1,1 +1,1 @@
-Sample Project file right here.
+Sample Project repository right here.
